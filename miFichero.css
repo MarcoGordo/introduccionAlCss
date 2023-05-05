@@ -1,11 +1,8 @@
-.encabezado{
-
-}
-
-.tamaño{
-    font-size: 2rem;
-}
 
 #primer-elemento{
     color: red;
+}
+
+ul li.tamaño{
+    font-size: 2rem;
 }
